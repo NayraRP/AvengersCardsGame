@@ -13,4 +13,4 @@ npm install
 npm run serve
 ```
 
-![Captura Proyecto](/assets/CapturaProyecto.png)
+![Captura Proyecto](src/assets/CapturaProyecto.png)
